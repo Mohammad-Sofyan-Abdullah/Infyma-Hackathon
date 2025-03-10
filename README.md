@@ -82,13 +82,6 @@ http://localhost:5000
 ![Screenshot 1](static/sampleScreenShots/1.png)  
 ![Screenshot 2](static/sampleScreenShots/2.png)  
 
----
-
-## 🛠️ **Future Improvements**
-- Implement **cloud deployment** using **Heroku** or **AWS**.
-- Add **model training notebook**.
-- Improve **UI/UX design**.
-- Integrate **additional model metrics** and visualization.
 
 ---
 
